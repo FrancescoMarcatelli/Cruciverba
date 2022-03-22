@@ -1,0 +1,2382 @@
+[
+    {
+        "SuggerimentoId": 1,
+        "Numero": 1,
+        "Descrizione": "Azienda motociclistica italiana",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 2,
+        "Numero": 6,
+        "Descrizione": "Una parte del palcoscenico",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 3,
+        "Numero": 12,
+        "Descrizione": "Quantit\u00c3\u00a0 stabilita",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 4,
+        "Numero": 13,
+        "Descrizione": "Tensione nervosa",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 5,
+        "Numero": 14,
+        "Descrizione": "Il Mentana giornalista (iniziali)",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 6,
+        "Numero": 16,
+        "Descrizione": "Poco... naturale",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 7,
+        "Numero": 17,
+        "Descrizione": "Le hanno il topo e la talpa",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 8,
+        "Numero": 18,
+        "Descrizione": "Figlio di Creso, re di Lidia",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 9,
+        "Numero": 19,
+        "Descrizione": "La prima e la quarta nel poker",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 10,
+        "Numero": 20,
+        "Descrizione": "Poco diffuse",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 11,
+        "Numero": 22,
+        "Descrizione": "Tessuto sottile di lana",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 12,
+        "Numero": 24,
+        "Descrizione": "Altrimenti in latino",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 13,
+        "Numero": 26,
+        "Descrizione": "Produce sia moto che auto",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 14,
+        "Numero": 27,
+        "Descrizione": "La Meryl di Hollywood",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 15,
+        "Numero": 29,
+        "Descrizione": "Recipienti di terracotta",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 16,
+        "Numero": 30,
+        "Descrizione": "A... mezzo stampa",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 17,
+        "Numero": 31,
+        "Descrizione": "L'Eden era quello terrestre",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 18,
+        "Numero": 33,
+        "Descrizione": "Fa il bis anche se non richiesto",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 19,
+        "Numero": 34,
+        "Descrizione": "Notevolmente capace",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 20,
+        "Numero": 36,
+        "Descrizione": "Integrated Development Environment",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 21,
+        "Numero": 38,
+        "Descrizione": "Sigla di Ancona",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 22,
+        "Numero": 40,
+        "Descrizione": "Marchiane violazioni",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 23,
+        "Numero": 41,
+        "Descrizione": "Formano un grappolo",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 24,
+        "Numero": 43,
+        "Descrizione": "La fine del round",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 25,
+        "Numero": 45,
+        "Descrizione": "Associazione Musei d'Ossola",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 26,
+        "Numero": 47,
+        "Descrizione": "Moto giapponese che ha come simbolo un'ala rossa",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 27,
+        "Numero": 49,
+        "Descrizione": "Un difetto... superficiale",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 28,
+        "Numero": 51,
+        "Descrizione": "Che non sono state ancora frazionate",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 29,
+        "Numero": 54,
+        "Descrizione": "Turbo Diesel",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 30,
+        "Numero": 56,
+        "Descrizione": "Riceve le schede delle votazioni",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 31,
+        "Numero": 58,
+        "Descrizione": "Un tipo di energia",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 32,
+        "Numero": 59,
+        "Descrizione": "Uccello dalle lunghe zampe",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 33,
+        "Numero": 60,
+        "Descrizione": "L'eccesso di chi eccede",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 34,
+        "Numero": 62,
+        "Descrizione": "Si pu\u00c3\u00b2 non averla quando si fa un giro in moto",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 35,
+        "Numero": 63,
+        "Descrizione": "Elegante e raffinato",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 36,
+        "Numero": 64,
+        "Descrizione": "La giurista meno giusta",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 37,
+        "Numero": 65,
+        "Descrizione": "Sul livello del mare (sigla)",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 38,
+        "Numero": 67,
+        "Descrizione": "In cima al registro",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 39,
+        "Numero": 68,
+        "Descrizione": "I confini del Kenya",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 40,
+        "Numero": 69,
+        "Descrizione": "Fondo di canoa",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 41,
+        "Numero": 70,
+        "Descrizione": "La casa motociclistica detta anche \"del triplo diapason\"",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 42,
+        "Numero": 72,
+        "Descrizione": "Contenitori in pelle",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 43,
+        "Numero": 74,
+        "Descrizione": "Una delle scelte che si ha di fronte",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 44,
+        "Numero": 75,
+        "Descrizione": "Il lettore li segue in nota",
+        "isHoriz": true,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 45,
+        "Numero": 1,
+        "Descrizione": "Non matura",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 46,
+        "Numero": 2,
+        "Descrizione": "Pari in grado",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 47,
+        "Numero": 3,
+        "Descrizione": "Particella atomica",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 48,
+        "Numero": 4,
+        "Descrizione": "Local Security Authority",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 49,
+        "Numero": 5,
+        "Descrizione": "Fondo di bottiglie",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 50,
+        "Numero": 6,
+        "Descrizione": "Rate senza pari",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 51,
+        "Numero": 7,
+        "Descrizione": "Fa dire cose di cui poi ci si pente",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 52,
+        "Numero": 8,
+        "Descrizione": "\u00c3\u02c6 famosa per le sue moto da trial",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 53,
+        "Numero": 9,
+        "Descrizione": "Un posto per piccini",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 54,
+        "Numero": 10,
+        "Descrizione": "Le estremit\u00c3\u00a0 del lapis",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 55,
+        "Numero": 11,
+        "Descrizione": "Si richiedono per iniziative collettive",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 56,
+        "Numero": 13,
+        "Descrizione": "Tecnica di cottura",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 57,
+        "Numero": 15,
+        "Descrizione": "La prima parola pronunciata dai bambini",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 58,
+        "Numero": 17,
+        "Descrizione": "Peso da detrarre",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 59,
+        "Numero": 19,
+        "Descrizione": "Una poderosa manata sulle spalle",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 60,
+        "Numero": 21,
+        "Descrizione": "Il compositore Wagner (iniziali)",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 61,
+        "Numero": 22,
+        "Descrizione": "Uomo cui si attribuisce un\u0092attivit\u00c3\u00a0 di magia nera",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 62,
+        "Numero": 23,
+        "Descrizione": "Associazione Elettronica Italiana",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 63,
+        "Numero": 25,
+        "Descrizione": "Il pi\u00c3\u00b9 breve andare",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 64,
+        "Numero": 27,
+        "Descrizione": "Sono insaccati",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 65,
+        "Numero": 28,
+        "Descrizione": "Un tipo di maturit\u00c3\u00a0 che si raggiunge",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 66,
+        "Numero": 31,
+        "Descrizione": "Serie di oggetti sovrapposti",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 67,
+        "Numero": 32,
+        "Descrizione": "Antipatica a tutti",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 68,
+        "Numero": 35,
+        "Descrizione": "Prima di bere e di parlare",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 69,
+        "Numero": 37,
+        "Descrizione": "Ne ha una il capricorno",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 70,
+        "Numero": 39,
+        "Descrizione": "Un libro pieno di nomi",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 71,
+        "Numero": 42,
+        "Descrizione": "Il bidello... meno bello",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 72,
+        "Numero": 44,
+        "Descrizione": "Casa motociclistica nata in Spagna",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 73,
+        "Numero": 46,
+        "Descrizione": "Uno storico marchio motociclistico italiano",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 74,
+        "Numero": 48,
+        "Descrizione": "Ampio ingresso",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 75,
+        "Numero": 50,
+        "Descrizione": "Ha sede a New York",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 76,
+        "Numero": 52,
+        "Descrizione": "Il P\u00c3\u00a9rignon dello champagne",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 77,
+        "Numero": 53,
+        "Descrizione": "Si stringe girandola",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 78,
+        "Numero": 55,
+        "Descrizione": "Sfreccia in MotoGP",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 79,
+        "Numero": 57,
+        "Descrizione": "Vale parecchio",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 80,
+        "Numero": 59,
+        "Descrizione": "Uno dei Beatles (iniziali)",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 81,
+        "Numero": 61,
+        "Descrizione": "Un albero",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 82,
+        "Numero": 63,
+        "Descrizione": "Cos\u00c3\u00ac si vende la propria pelle",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 83,
+        "Numero": 66,
+        "Descrizione": "Isola britannica",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 84,
+        "Numero": 68,
+        "Descrizione": "Kronreif und Trunkenpolz, Mattighofen \u00c3\u00a8 l'acronimo di questa moto",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 85,
+        "Numero": 70,
+        "Descrizione": "Le ultime due dell'alfabeto internazionale",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 86,
+        "Numero": 71,
+        "Descrizione": "Simbolo chimico dell'Elio",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 87,
+        "Numero": 72,
+        "Descrizione": "Due di voi",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 88,
+        "Numero": 73,
+        "Descrizione": "Tra salto e alto",
+        "isHoriz": false,
+        "FK_Cruciverba": 1
+    },
+    {
+        "SuggerimentoId": 89,
+        "Numero": 1,
+        "Descrizione": "Confina con la Florida",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 90,
+        "Numero": 7,
+        "Descrizione": "Un termine un tempo usato nel calcio",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 91,
+        "Numero": 14,
+        "Descrizione": "Animali agili e rapidi",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 92,
+        "Numero": 15,
+        "Descrizione": "Tutt'altro che sbagliate",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 93,
+        "Numero": 16,
+        "Descrizione": "Il notiziario in TV",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 94,
+        "Numero": 17,
+        "Descrizione": "Simbolo del cadmio",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 95,
+        "Numero": 18,
+        "Descrizione": "Nel centro del Sahara",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 96,
+        "Numero": 19,
+        "Descrizione": "\u00c3\u02c6 \"in\" se si punta tutto",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 97,
+        "Numero": 20,
+        "Descrizione": "Li precedono in famiglia",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 98,
+        "Numero": 21,
+        "Descrizione": "Vale ciascuno",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 99,
+        "Numero": 23,
+        "Descrizione": "Quello \"up\" \u00c3\u00a8 un cartello pubblicitario avvolgibile",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 100,
+        "Numero": 25,
+        "Descrizione": "Non proprio sferici",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 101,
+        "Numero": 27,
+        "Descrizione": "Il punteggio massimo sul dado",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 102,
+        "Numero": 28,
+        "Descrizione": "Genere di piante dal fiore violaceo",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 103,
+        "Numero": 30,
+        "Descrizione": "Uccello sacro agli egizi",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 104,
+        "Numero": 31,
+        "Descrizione": "Il principio d'Archimede",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 105,
+        "Numero": 32,
+        "Descrizione": "Coda di sorci",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 106,
+        "Numero": 33,
+        "Descrizione": "Una cifra inglese",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 107,
+        "Numero": 35,
+        "Descrizione": "Titoli di stato",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 108,
+        "Numero": 36,
+        "Descrizione": "La Santarelli della televisione",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 109,
+        "Numero": 39,
+        "Descrizione": "Jet russo",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 110,
+        "Numero": 41,
+        "Descrizione": "Poco originale",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 111,
+        "Numero": 43,
+        "Descrizione": "Mezzi su rotaie",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 112,
+        "Numero": 44,
+        "Descrizione": "La capitale Bulgara",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 113,
+        "Numero": 46,
+        "Descrizione": "Ha scritto \"I promessi sposi\" (iniziali)",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 114,
+        "Numero": 48,
+        "Descrizione": "Feriscono chi abbocca",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 115,
+        "Numero": 50,
+        "Descrizione": "\"Bloc\" per gli appunti",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 116,
+        "Numero": 52,
+        "Descrizione": "Royal Automobile Club",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 117,
+        "Numero": 54,
+        "Descrizione": "Con loro si organizza una scampagnata",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 118,
+        "Numero": 57,
+        "Descrizione": "Stefano de \"L'ultimo bacio\" (iniziali)",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 119,
+        "Numero": 58,
+        "Descrizione": "Vedo meno le vocali",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 120,
+        "Numero": 60,
+        "Descrizione": "Fianco",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 121,
+        "Numero": 62,
+        "Descrizione": "La provincia con Senigallia",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 122,
+        "Numero": 64,
+        "Descrizione": "La bella di lui",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 123,
+        "Numero": 65,
+        "Descrizione": "Lo \u00c3\u00a8 chi ruba",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 124,
+        "Numero": 67,
+        "Descrizione": "La sua capitale \u00c3\u00a8 Beijing",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 125,
+        "Numero": 68,
+        "Descrizione": "Capo dello Stato nella Repubblica di Venezia",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 126,
+        "Numero": 69,
+        "Descrizione": "Ultimo Giorno",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 127,
+        "Numero": 70,
+        "Descrizione": "La squadra di calcio di Eindhoven",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 128,
+        "Numero": 72,
+        "Descrizione": "Cos\u00c3\u00ac si conclude la tesi",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 129,
+        "Numero": 73,
+        "Descrizione": "Decisa negazione",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 130,
+        "Numero": 74,
+        "Descrizione": "Nella blusa e nel polsino",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 131,
+        "Numero": 75,
+        "Descrizione": "Si pu\u00c3\u00b2 fare quando si ha tempo libero",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 132,
+        "Numero": 78,
+        "Descrizione": "Animali",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 133,
+        "Numero": 80,
+        "Descrizione": "Molto finto",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 134,
+        "Numero": 81,
+        "Descrizione": "Termine che si usa quando qualcosa torna di attualit\u00c3\u00a0",
+        "isHoriz": true,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 135,
+        "Numero": 1,
+        "Descrizione": "Un tipo di stomatite",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 136,
+        "Numero": 2,
+        "Descrizione": "Un passatempo domenicale di cultura",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 137,
+        "Numero": 3,
+        "Descrizione": "Alto a met\u00c3\u00a0",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 138,
+        "Numero": 4,
+        "Descrizione": "La prendi per fare una gita",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 139,
+        "Numero": 5,
+        "Descrizione": "Si scrive anche &",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 140,
+        "Numero": 6,
+        "Descrizione": "\u00c3\u02c6 poco pi\u00c3\u00b9 alto del re",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 141,
+        "Numero": 7,
+        "Descrizione": "L'opposto di NE nella bussola",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 142,
+        "Numero": 8,
+        "Descrizione": "Nel mezzo",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 143,
+        "Numero": 9,
+        "Descrizione": "Margine ricucito",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 144,
+        "Numero": 10,
+        "Descrizione": "Sinonimo di bacino",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 145,
+        "Numero": 11,
+        "Descrizione": "Una provincia toscana (sigla)",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 146,
+        "Numero": 12,
+        "Descrizione": "Se il suo tasso \u00c3\u00a8 alto alla guida, si rischia il ritiro della patente",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 147,
+        "Numero": 13,
+        "Descrizione": "C'\u00c3\u00a8 quello di classe",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 148,
+        "Numero": 15,
+        "Descrizione": "Sport che riempie le domeniche degli appassionati",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 149,
+        "Numero": 18,
+        "Descrizione": "Il Robin di Sherwood",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 150,
+        "Numero": 22,
+        "Descrizione": "Non \u00c3\u00a8 un s\u00c3\u00ac e nemmeno un no",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 151,
+        "Numero": 23,
+        "Descrizione": "La coppia in arrivo",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 152,
+        "Numero": 24,
+        "Descrizione": "Met\u00c3\u00a0 luglio",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 153,
+        "Numero": 26,
+        "Descrizione": "La base minima di molte discipline",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 154,
+        "Numero": 28,
+        "Descrizione": "Un passatempo pomeridiano della domenica",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 155,
+        "Numero": 29,
+        "Descrizione": "Il Le Bon dei Duran Duran",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 156,
+        "Numero": 32,
+        "Descrizione": "Rende lucida la carrozzeria dell'auto",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 157,
+        "Numero": 34,
+        "Descrizione": "L'appassionata che passa la domenica allo stadio",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 158,
+        "Numero": 37,
+        "Descrizione": "Sigla di una citt\u00c3\u00a0 del Lazio",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 159,
+        "Numero": 38,
+        "Descrizione": "La parte spirituale",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 160,
+        "Numero": 40,
+        "Descrizione": "Si fa fuori porta",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 161,
+        "Numero": 42,
+        "Descrizione": "Schermi di tessuto o carta che attenuano la propagazione della luce di una lampada",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 162,
+        "Numero": 45,
+        "Descrizione": "Gli estremi dell'amore",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 163,
+        "Numero": 47,
+        "Descrizione": "Dirigente d'azienda",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 164,
+        "Numero": 49,
+        "Descrizione": "Imposte sulla benzina",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 165,
+        "Numero": 51,
+        "Descrizione": "Molti non la programmano la domenica",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 166,
+        "Numero": 53,
+        "Descrizione": "Charge Couple Device",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 167,
+        "Numero": 55,
+        "Descrizione": "La SpA statunitense",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 168,
+        "Numero": 56,
+        "Descrizione": "Atomi elettrizzati",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 169,
+        "Numero": 59,
+        "Descrizione": "Tipo di motore a gasolio",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 170,
+        "Numero": 61,
+        "Descrizione": "Mostri mitologici alati",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 171,
+        "Numero": 63,
+        "Descrizione": "Finiscono... la lasagna",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 172,
+        "Numero": 64,
+        "Descrizione": "Articolo maschile singolare",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 173,
+        "Numero": 66,
+        "Descrizione": "Il \"nulla\" che d\u00c3\u00a0 il via libera!",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 174,
+        "Numero": 68,
+        "Descrizione": "Sono importanti nelle ricette dei piatti da preparare",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 175,
+        "Numero": 71,
+        "Descrizione": "L'attore Kilmer",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 176,
+        "Numero": 73,
+        "Descrizione": "La prima parte del Nevada",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 177,
+        "Numero": 76,
+        "Descrizione": "Il centro del quadrato",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 178,
+        "Numero": 77,
+        "Descrizione": "C'\u00c3\u00a8 ancora in Belgio",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 179,
+        "Numero": 78,
+        "Descrizione": "Sigla del berillio",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 180,
+        "Numero": 79,
+        "Descrizione": "Una compagna della domenica",
+        "isHoriz": false,
+        "FK_Cruciverba": 2
+    },
+    {
+        "SuggerimentoId": 181,
+        "Numero": 1,
+        "Descrizione": "Accesissimi tifosi",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 182,
+        "Numero": 6,
+        "Descrizione": "Riempita all'eccesso di qualcosa",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 183,
+        "Numero": 11,
+        "Descrizione": "Con una macchina puoi prepararla anche a casa",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 184,
+        "Numero": 13,
+        "Descrizione": "Cereale simile al frumento",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 185,
+        "Numero": 14,
+        "Descrizione": "Arreda anche",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 186,
+        "Numero": 16,
+        "Descrizione": "Una capitale scandinava",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 187,
+        "Numero": 17,
+        "Descrizione": "Nei piedi e nelle scarpe",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 188,
+        "Numero": 18,
+        "Descrizione": "La met\u00c3\u00a0 di VI",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 189,
+        "Numero": 20,
+        "Descrizione": "Sistema utilizzato dai componenti hardware per segnalare eventi alla CPU",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 190,
+        "Numero": 21,
+        "Descrizione": "Sigla radio televisiva",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 191,
+        "Numero": 22,
+        "Descrizione": "Quello di denti \u00c3\u00a8 insopportabile",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 192,
+        "Numero": 23,
+        "Descrizione": "Titolo per prelati (abbrev.)",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 193,
+        "Numero": 25,
+        "Descrizione": "Un terzo d'Europa",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 194,
+        "Numero": 26,
+        "Descrizione": "Sono pari nell'animo",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 195,
+        "Numero": 27,
+        "Descrizione": "Si fanno in porta quando si gioca a calcio",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 196,
+        "Numero": 28,
+        "Descrizione": "Era detto anche \"The pelvis\"",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 197,
+        "Numero": 30,
+        "Descrizione": "L'esca lo nasconde",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 198,
+        "Numero": 32,
+        "Descrizione": "Domenico, stilista italiano che veste molte celebrit\u00c3\u00a0 di Hollywood",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 199,
+        "Numero": 33,
+        "Descrizione": "N\u00c3\u00a9 terrestre, n\u00c3\u00a9 marittima",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 200,
+        "Numero": 35,
+        "Descrizione": "Citt\u00c3\u00a0 pi\u00c3\u00b9 popolosa ma anche capitale del Ghana",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 201,
+        "Numero": 36,
+        "Descrizione": "Lo contengono le cialde da mettere in una specifica macchina",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 202,
+        "Numero": 37,
+        "Descrizione": "Organi dei fiori",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 203,
+        "Numero": 40,
+        "Descrizione": "Pulisce il pavimento al posto tuo",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 204,
+        "Numero": 44,
+        "Descrizione": "Quella elettrica aspira la polvere",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 205,
+        "Numero": 45,
+        "Descrizione": "Un codice per il postino",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 206,
+        "Numero": 47,
+        "Descrizione": "Sul \"Grande\" si svolge una storica regata",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 207,
+        "Numero": 49,
+        "Descrizione": "Adorati",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 208,
+        "Numero": 50,
+        "Descrizione": "Il centro del comune",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 209,
+        "Numero": 51,
+        "Descrizione": "Inter City",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 210,
+        "Numero": 53,
+        "Descrizione": "Mitologico mostro con pi\u00c3\u00b9 teste",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 211,
+        "Numero": 54,
+        "Descrizione": "Grido sportivo",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 212,
+        "Numero": 55,
+        "Descrizione": "Preposizione articolata",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 213,
+        "Numero": 56,
+        "Descrizione": "Una somma di secoli",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 214,
+        "Numero": 58,
+        "Descrizione": "Nella bussola",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 215,
+        "Numero": 59,
+        "Descrizione": "In... cima al registro",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 216,
+        "Numero": 60,
+        "Descrizione": "Quello elettrico scalda l'acqua",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 217,
+        "Numero": 62,
+        "Descrizione": "Le carote... meno care",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 218,
+        "Numero": 63,
+        "Descrizione": "Paniere di vimini",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 219,
+        "Numero": 64,
+        "Descrizione": "Certi equini",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 220,
+        "Numero": 66,
+        "Descrizione": "Tormentosa incertezza",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 221,
+        "Numero": 67,
+        "Descrizione": "Calmati, leniti",
+        "isHoriz": true,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 222,
+        "Numero": 1,
+        "Descrizione": "Tutt'altro che prime",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 223,
+        "Numero": 2,
+        "Descrizione": "Sigla di Trapani",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 224,
+        "Numero": 3,
+        "Descrizione": "Piccola autorit\u00c3\u00a0 locale",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 225,
+        "Numero": 4,
+        "Descrizione": "Citt\u00c3\u00a0 dello spumante",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 226,
+        "Numero": 5,
+        "Descrizione": "Il \"negozio\" delle app",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 227,
+        "Numero": 6,
+        "Descrizione": "Formula di saluto di origine araba",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 228,
+        "Numero": 7,
+        "Descrizione": "Quelle bianche si affilano",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 229,
+        "Numero": 8,
+        "Descrizione": "Una preposizione",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 230,
+        "Numero": 9,
+        "Descrizione": "Mezzo uovo",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 231,
+        "Numero": 10,
+        "Descrizione": "La strega che ammalia di Disney",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 232,
+        "Numero": 12,
+        "Descrizione": "Puoi renderla frizzante con il gasatore",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 233,
+        "Numero": 13,
+        "Descrizione": "Pu\u00c3\u00b2 essere ventilato",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 234,
+        "Numero": 15,
+        "Descrizione": "Strumento musicale ad arco ma anche un fiore",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 235,
+        "Numero": 17,
+        "Descrizione": "Parsimoniosa, attenta nello spendere",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 236,
+        "Numero": 19,
+        "Descrizione": "Cerca di ideare sempre qualcosa di originale",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 237,
+        "Numero": 22,
+        "Descrizione": "Un elettrodomestico utile anche a scongelare",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 238,
+        "Numero": 24,
+        "Descrizione": "Lo \u00c3\u00a8 il baronetto",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 239,
+        "Numero": 27,
+        "Descrizione": "Un colpo secco",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 240,
+        "Numero": 29,
+        "Descrizione": "Lo usano i dubbiosi",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 241,
+        "Numero": 31,
+        "Descrizione": "Si forma pi\u00c3\u00b9 facilmente nei luoghi umidi",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 242,
+        "Numero": 32,
+        "Descrizione": "La sigla di Vercelli",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 243,
+        "Numero": 34,
+        "Descrizione": "Azione Cattolica Italiana",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 244,
+        "Numero": 35,
+        "Descrizione": "La Lingus compagnia aerea irlandese",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 245,
+        "Numero": 37,
+        "Descrizione": "Quelle a pioli sono di legno",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 246,
+        "Numero": 38,
+        "Descrizione": "Raccolgono il nettare",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 247,
+        "Numero": 39,
+        "Descrizione": "Firma in calce...",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 248,
+        "Numero": 41,
+        "Descrizione": "Organizzazione Culturale",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 249,
+        "Numero": 42,
+        "Descrizione": "Cavalli con la coda nera",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 250,
+        "Numero": 43,
+        "Descrizione": "Una parte del piede",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 251,
+        "Numero": 44,
+        "Descrizione": "Lo \u00c3\u00a8 l'annata che da poco raccolto",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 252,
+        "Numero": 45,
+        "Descrizione": "Lettino per neonato",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 253,
+        "Numero": 46,
+        "Descrizione": "La ispira il misero",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 254,
+        "Numero": 48,
+        "Descrizione": "Vendono un bianco alimento",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 255,
+        "Numero": 50,
+        "Descrizione": "Uno stato insulare vicino alla Sicilia",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 256,
+        "Numero": 52,
+        "Descrizione": "Passaggio al centro",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 257,
+        "Numero": 55,
+        "Descrizione": "Te le suggerisce il robot da cucina",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 258,
+        "Numero": 57,
+        "Descrizione": "Se le d\u00c3\u00a0 il borioso",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 259,
+        "Numero": 60,
+        "Descrizione": "Lo Stiller di Una notte al museo",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 260,
+        "Numero": 61,
+        "Descrizione": "Mette fine... ai film americani",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 261,
+        "Numero": 63,
+        "Descrizione": "La provincia di Cant\u00c3\u00b9 (sigla)",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 262,
+        "Numero": 65,
+        "Descrizione": "Vocali in fila",
+        "isHoriz": false,
+        "FK_Cruciverba": 3
+    },
+    {
+        "SuggerimentoId": 263,
+        "Numero": 1,
+        "Descrizione": "Lo sono alcune piante",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 264,
+        "Numero": 5,
+        "Descrizione": "Ipotizzate, presunte",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 265,
+        "Numero": 12,
+        "Descrizione": "Il suo aspetto \u00c3\u00a8 intermedio tra l\u0092antilope, il bue e il cavallo",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 266,
+        "Numero": 14,
+        "Descrizione": "Produce latte per un gustoso formaggio",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 267,
+        "Numero": 15,
+        "Descrizione": "N\u00c3\u00a9 voi, n\u00c3\u00a9 loro",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 268,
+        "Numero": 17,
+        "Descrizione": "Inizio d'ebollizione",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 269,
+        "Numero": 19,
+        "Descrizione": "Alimenti, nutrimenti",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 270,
+        "Numero": 21,
+        "Descrizione": "Margine ricucito",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 271,
+        "Numero": 23,
+        "Descrizione": "Lago con Monte Isola",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 272,
+        "Numero": 25,
+        "Descrizione": "Il contrario di long",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 273,
+        "Numero": 26,
+        "Descrizione": "In Italia ci sono 7 razze riconosciute di questo mammifero",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 274,
+        "Numero": 28,
+        "Descrizione": "Un tessuto di lana prodotto in Sardegna",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 275,
+        "Numero": 30,
+        "Descrizione": "Il dittongo in squadra",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 276,
+        "Numero": 31,
+        "Descrizione": "La fine del daino",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 277,
+        "Numero": 32,
+        "Descrizione": "Decisa, risoluta",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 278,
+        "Numero": 34,
+        "Descrizione": "Fa fermare chi lo rispetta",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 279,
+        "Numero": 35,
+        "Descrizione": "Attrice dal fascino misterioso",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 280,
+        "Numero": 36,
+        "Descrizione": "Verso del corvo",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 281,
+        "Numero": 38,
+        "Descrizione": "Sigla di Lecce",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 282,
+        "Numero": 39,
+        "Descrizione": "Ci sono quelli forti",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 283,
+        "Numero": 40,
+        "Descrizione": "Originaria del Sudamerica ma diffusa nel nord Italia",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 284,
+        "Numero": 42,
+        "Descrizione": "Lo usano i dubbiosi",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 285,
+        "Numero": 43,
+        "Descrizione": "Confortano il benestante",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 286,
+        "Numero": 45,
+        "Descrizione": "Privi di acciacchi",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 287,
+        "Numero": 47,
+        "Descrizione": "Charge Couple Device",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 288,
+        "Numero": 48,
+        "Descrizione": "Raschiate",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 289,
+        "Numero": 51,
+        "Descrizione": "Una provincia toscana (sigla)",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 290,
+        "Numero": 52,
+        "Descrizione": "Nel vino e nello sciroppo",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 291,
+        "Numero": 53,
+        "Descrizione": "Periodi di due anni",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 292,
+        "Numero": 54,
+        "Descrizione": "Premio per divi",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 293,
+        "Numero": 56,
+        "Descrizione": "Vaso di terracotta per l'olio",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 294,
+        "Numero": 58,
+        "Descrizione": "Una enorme opera ingegneristica",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 295,
+        "Numero": 59,
+        "Descrizione": "Prima di oggi",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 296,
+        "Numero": 60,
+        "Descrizione": "Lo stato con Vientiane",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 297,
+        "Numero": 62,
+        "Descrizione": "Il Ruggeri cantante (iniziali)",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 298,
+        "Numero": 64,
+        "Descrizione": "Ministri del Negus",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 299,
+        "Numero": 65,
+        "Descrizione": "Conduce in alto o in basso",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 300,
+        "Numero": 68,
+        "Descrizione": "La prima parte del Nevada",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 301,
+        "Numero": 70,
+        "Descrizione": "Cos\u00c3\u00ac \u00c3\u00a8 detta una enorme folla",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 302,
+        "Numero": 71,
+        "Descrizione": "Sono abbinati alle sedie",
+        "isHoriz": true,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 303,
+        "Numero": 1,
+        "Descrizione": "Tifosi del grifone",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 304,
+        "Numero": 2,
+        "Descrizione": "Scattanti come felini",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 305,
+        "Numero": 3,
+        "Descrizione": "Cambiano l'amico in asino",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 306,
+        "Numero": 4,
+        "Descrizione": "Fa uso del profondimetro",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 307,
+        "Numero": 6,
+        "Descrizione": "Unione Ciclistica",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 308,
+        "Numero": 7,
+        "Descrizione": "Abbreviazione di pagina",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 309,
+        "Numero": 8,
+        "Descrizione": "Palpitare... senza alitare",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 310,
+        "Numero": 9,
+        "Descrizione": "Possono pesare anche 10 tonnellate",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 311,
+        "Numero": 10,
+        "Descrizione": "Tonaca monacale",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 312,
+        "Numero": 11,
+        "Descrizione": "Schivate, scansate",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 313,
+        "Numero": 13,
+        "Descrizione": "Li usi per pagare in Messico",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 314,
+        "Numero": 16,
+        "Descrizione": "C'\u00c3\u00a8 quello bruno e quello bianco",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 315,
+        "Numero": 18,
+        "Descrizione": "Filava in una canzone di Rino Gaetano",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 316,
+        "Numero": 20,
+        "Descrizione": "Priva di vegetazione",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 317,
+        "Numero": 22,
+        "Descrizione": "Pu\u00c3\u00b2 arrivare quella di freddo",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 318,
+        "Numero": 24,
+        "Descrizione": "Il Wan Kenobi di Star Wars",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 319,
+        "Numero": 25,
+        "Descrizione": "Che non \u00c3\u00a8 stato scelto",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 320,
+        "Numero": 27,
+        "Descrizione": "Un'operazione nella nautica",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 321,
+        "Numero": 29,
+        "Descrizione": "Si respinge con un alibi",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 322,
+        "Numero": 33,
+        "Descrizione": "Il contrario di chiudere",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 323,
+        "Numero": 35,
+        "Descrizione": "Chiudono attivo e passivo",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 324,
+        "Numero": 37,
+        "Descrizione": "Utensili del mestiere",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 325,
+        "Numero": 39,
+        "Descrizione": "Nel gregge pu\u00c3\u00b2 essere nera",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 326,
+        "Numero": 41,
+        "Descrizione": "Gemelle in bici",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 327,
+        "Numero": 42,
+        "Descrizione": "Non legato",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 328,
+        "Numero": 44,
+        "Descrizione": "Raggruppamenti umani",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 329,
+        "Numero": 46,
+        "Descrizione": "Non amano i neologismi e parole straniere",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 330,
+        "Numero": 49,
+        "Descrizione": "Sigla del piccolo stato di Andorra",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 331,
+        "Numero": 50,
+        "Descrizione": "Un grosso felino",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 332,
+        "Numero": 51,
+        "Descrizione": "La Croft dei videogames",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 333,
+        "Numero": 53,
+        "Descrizione": "Locale per il gioco d'azzardo clandestino",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 334,
+        "Numero": 55,
+        "Descrizione": "Diffuso sulle Alpi",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 335,
+        "Numero": 57,
+        "Descrizione": "Sono da pazzi a volte",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 336,
+        "Numero": 61,
+        "Descrizione": "Articolo plurale",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 337,
+        "Numero": 63,
+        "Descrizione": "Le tredici del quadrante",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 338,
+        "Numero": 66,
+        "Descrizione": "Sono pari nello zaino",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 339,
+        "Numero": 67,
+        "Descrizione": "Le separa la B",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    },
+    {
+        "SuggerimentoId": 340,
+        "Numero": 69,
+        "Descrizione": "Un po' evanescente",
+        "isHoriz": false,
+        "FK_Cruciverba": 4
+    }
+]
